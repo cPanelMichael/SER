@@ -1,0 +1,21 @@
+#!/usr/local/cpanel/3rdparty/bin/perl
+# SCRIPT: SER.                                                                        #
+# PURPOSE: Output common strace issues                                                #
+# AUTHOR: Michael Howard <m.howard@cpanel.net>                                        #
+#######################################################################################
+
+use strict;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
